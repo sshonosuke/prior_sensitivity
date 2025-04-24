@@ -9,7 +9,7 @@ The repository includes the following 6 files.
 - `Normal-model.R`: Example of normal distribution
 - `BB-model.R`: Example of binomial-beta model
 - `GP-model.R`: Example of Gaussian process regression model
-- `BB-model-para1.stan` and `BB-model-para2.stan`: Stan codes for binnomial-beta model used in `BB-model.R`
+- `BB-model-para1.stan` and `BB-model-para2.stan`: Stan codes for binnomial-beta model with different parameterization, used in `BB-model.R`
 - `GP-model.stan`: Stan code for Gaussian process regression used in `GP-model.R`
 
 
